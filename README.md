@@ -44,5 +44,5 @@
   >  
   > ![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)  
   >  
-  > **Bu program sonucu çıkacak sorunlar** ![RED](https://img.shields.io/badge/red-red?style=flat-square) **lisansta reddedilir.**
+  > **Bu program sonucu çıkacak sorumluluklar MIT lisans kapsamında tarafımızca reddedilmiştir. Lisans doğrultusunda kodlar paylaşılamaz, değiştirilip tekrar sunulamaz.**
 
