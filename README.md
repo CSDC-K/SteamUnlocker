@@ -1,6 +1,6 @@
 # SteamUnlocker
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-09B5E3)
 ![Status](https://img.shields.io/badge/Durum-Aktif-brightgreen)
 
