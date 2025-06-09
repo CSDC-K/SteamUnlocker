@@ -38,8 +38,11 @@
 
   ```
 
-  > ![Uyarı](https://img.shields.io/badge/UYARI-DİKKAT-red?style=flat-square)  
+  > ![Uyarı](https://img.shields.io/badge/UYARI-DİKKAT-red?style=flat-square)
+  > 
   > ⚠️ **Source içeriğindeki Fixer dosyaları NLGLV4 adlı launcherdan alınmıştır açık kaynağına erişimimiz yoktur bunu bilerek kullanınız.**
+  > 
   > ![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+  > 
   > **Bu program sonucu çıkacak sorunlar MIT lisans kapsamında tarafımızca red edilir.**
 
