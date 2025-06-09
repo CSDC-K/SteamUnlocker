@@ -1,0 +1,15 @@
+{
+    "SteamPath": "C:/Program Files (x86)/Steam",
+    "h4": {
+        "LuaFolder": "C:/Program Files (x86)/Steam\\config\\stplug-in",
+        "ManifestFolder": "C:/Program Files (x86)/Steam\\config\\depotcache"
+    },
+    "cr3": {
+        "LuaFolder": "C:/Program Files (x86)/Steam\\config\\stplug-in",
+        "ManifestFolder": "C:/Program Files (x86)/Steam\\config\\depotcache"
+    },
+    "e": {
+        "LuaFolder": "C:/Program Files (x86)/Steam\\config\\stplug-in",
+        "ManifestFolder": "C:/Program Files (x86)/Steam\\config\\depotcache"
+    }
+}
