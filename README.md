@@ -6,27 +6,27 @@
 
 ---
 
-## 🎯 Ne İşe Yarar?
+## 🎯 What Does It Do?
 
-`Script Injector`, `.zip` dosyasındaki `.lua` ve `.manifest` dosyalarını Steam klasörüne taşıyarak tüm oyunlara erişimi açar.
-
----
-
-## 💡 Özellikler
-
-- 🔁 **Kolay injection işlemi**
-- ⚙️ **Açık kaynak erişimi**
-- 📦 **Herkesin kullanabileceği arayüz**
-- 🗑️ **Temiz ve sadelik**
-- 🌙 **Modern arayüz**
-- ✅ **Erişilebilir ve basit kullanım**
+Script Injector transfers `.lua` and `.manifest` files from a `.zip` archive into the Steam folder, unlocking access to all games.
 
 ---
 
-## 🔧 Gereksinimler
+## 💡 Features
+
+- 🔁 **Easy injection process**
+- ⚙️ **Open-source access**
+- 📦 **Interface usable by everyone**
+- 🗑️ **Clean and minimal design**
+- 🌙 **Modern UI**
+- ✅ **Accessible and simple to use**
+
+---
+
+## 🔧 Requirements
 
 - Python 3.10+
-- Kurulması gereken kütüphane:
+- Librarys:
   
   ```bash
   </> pip install customtkinter
@@ -38,11 +38,11 @@
 
   ```
 
-  > ![Uyarı](https://img.shields.io/badge/UYARI-DİKKAT-red?style=flat-square)  
+  > ![Warning](https://img.shields.io/badge/WARNING-red?style=flat-square)  
   >  
-  > ⚠️ **Source içeriğindeki Fixer dosyaları NLGLV4 adlı launcherdan alınmıştır. Açık kaynağına erişimimiz yoktur, bunu bilerek kullanınız.**  
+  > ⚠️ **The Fixer files in the Source directory are taken from a launcher called NLGLV4. We do not have access to its source code, use at your own discretion.**  
   >  
   > ![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)  
   >  
-  > **Bu program sonucu çıkacak sorumluluklar MIT lisans kapsamında tarafımızca reddedilmiştir. Lisans doğrultusunda kodlar paylaşılamaz, değiştirilip tekrar sunulamaz.**
+  > **All liabilities arising from the use of this program are disclaimed under the MIT license. Under the license, the code may not be shared, modified, or redistributed.**
 
