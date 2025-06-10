@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?logo=python&logoColor=limegreen)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-09B5E3)
-![Status](https://img.shields.io/badge/Durum-Aktif-brightgreen)
+![Status](https://img.shields.io/badge/Online-brightgreen)
 
 ---
 
